@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "Anuja_FGGA.jpg"
+  name             : "Anuja Raorane"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Vienna"
+  employer         : "University of Vienna"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "anuja.raorane@univie.ac.at" 
 
   # Academic websites
   academia         : # URL
