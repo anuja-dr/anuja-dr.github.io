@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "cayman"
-title                    : "Your Name / Site Title"
+site_theme               : "default"
+title                    : "Anuja D.R."
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -34,9 +34,9 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=YW65DGYAAAAJ&gmla=AH8HC4zAVslEOJclx79j0PQql7FREBsdkv4iNiC7fPdPDe2GP41cjKdStK083Cc-_-8WrAyQVsg3zvknGBYuEHj_nIa1W5kxtWLvAWZ4VOkeVnQig4U"
+  googlescholar    : "https://scholar.google.com/citations?user=YW65DGYAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
-  orcid            : "http://orcid.org/0009-0005-4302-2693"
+  orcid            : "https://orcid.org/0009-0005-4302-2693"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "anuja-dr"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
